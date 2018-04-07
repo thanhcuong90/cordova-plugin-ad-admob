@@ -1,4 +1,4 @@
-Cordova AdMob plugin
+This page focus on: Cordova AdMob plugin for C2
 ====================
 
 # Overview #
@@ -226,8 +226,7 @@ https://build.phonegap.com/ - Apps - [specific project] - Update code - Zip file
 ```
 
 ## Construct2 ##
-Download construct2 plugin<br>
-https://dl.dropboxusercontent.com/u/186681453/pluginsforcordova/index.html<br>
+
 How to install c2 native plugins in xdk, cocoon and cordova cli<br>
 https://plus.google.com/102658703990850475314/posts/XS5jjEApJYV
 <br>
