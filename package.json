@@ -34,7 +34,7 @@
   "author": "cranberrygame",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cranberrygame/cordova-plugin-ad-admob/issues"
+    "url": "git+https://github.com/cranberrygame/cordova-plugin-ad-admob/issues"
   },
-  "homepage": "https://github.com/cranberrygame/cordova-plugin-ad-admob#readme"
+  "homepage": "git+https://github.com/cranberrygame/cordova-plugin-ad-admob#readme"
 }
