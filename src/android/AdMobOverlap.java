@@ -609,7 +609,13 @@ public class AdMobOverlap implements PluginDelegate {
 		public void onRewardedVideoAdOpened() {
 			Log.d(LOG_TAG, String.format("%s", "onRewardedVideoAdOpened"));
 		}
-
+		
+		@Override
+		public void onRewardedVideoCompleted() {
+			Log.d(LOG_TAG, String.format("%s", "onRewardedVideoCompleted"));
+			rewardedVideo.show();
+		}
+		
 		@Override
 		public void onRewardedVideoStarted() {
 			Log.d(LOG_TAG, String.format("%s", "onRewardedVideoStarted"));
